@@ -1,0 +1,16 @@
+C:\Users\slupi\source\repos\UserData\UserData\bin\Debug\net5.0\UserData.exe
+C:\Users\slupi\source\repos\UserData\UserData\bin\Debug\net5.0\UserData.deps.json
+C:\Users\slupi\source\repos\UserData\UserData\bin\Debug\net5.0\UserData.runtimeconfig.json
+C:\Users\slupi\source\repos\UserData\UserData\bin\Debug\net5.0\UserData.runtimeconfig.dev.json
+C:\Users\slupi\source\repos\UserData\UserData\bin\Debug\net5.0\UserData.dll
+C:\Users\slupi\source\repos\UserData\UserData\bin\Debug\net5.0\ref\UserData.dll
+C:\Users\slupi\source\repos\UserData\UserData\bin\Debug\net5.0\UserData.pdb
+C:\Users\slupi\source\repos\UserData\UserData\obj\Debug\net5.0\UserData.csproj.AssemblyReference.cache
+C:\Users\slupi\source\repos\UserData\UserData\obj\Debug\net5.0\UserData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slupi\source\repos\UserData\UserData\obj\Debug\net5.0\UserData.AssemblyInfoInputs.cache
+C:\Users\slupi\source\repos\UserData\UserData\obj\Debug\net5.0\UserData.AssemblyInfo.cs
+C:\Users\slupi\source\repos\UserData\UserData\obj\Debug\net5.0\UserData.csproj.CoreCompileInputs.cache
+C:\Users\slupi\source\repos\UserData\UserData\obj\Debug\net5.0\UserData.dll
+C:\Users\slupi\source\repos\UserData\UserData\obj\Debug\net5.0\ref\UserData.dll
+C:\Users\slupi\source\repos\UserData\UserData\obj\Debug\net5.0\UserData.pdb
+C:\Users\slupi\source\repos\UserData\UserData\obj\Debug\net5.0\UserData.genruntimeconfig.cache

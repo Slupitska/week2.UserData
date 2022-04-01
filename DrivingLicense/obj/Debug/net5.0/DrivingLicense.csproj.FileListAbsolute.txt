@@ -1,0 +1,16 @@
+C:\Users\slupi\source\repos\UserData\DrivingLicense\obj\Debug\net5.0\DrivingLicense.csproj.AssemblyReference.cache
+C:\Users\slupi\source\repos\UserData\DrivingLicense\obj\Debug\net5.0\DrivingLicense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slupi\source\repos\UserData\DrivingLicense\obj\Debug\net5.0\DrivingLicense.AssemblyInfoInputs.cache
+C:\Users\slupi\source\repos\UserData\DrivingLicense\obj\Debug\net5.0\DrivingLicense.AssemblyInfo.cs
+C:\Users\slupi\source\repos\UserData\DrivingLicense\obj\Debug\net5.0\DrivingLicense.csproj.CoreCompileInputs.cache
+C:\Users\slupi\source\repos\UserData\DrivingLicense\bin\Debug\net5.0\DrivingLicense.exe
+C:\Users\slupi\source\repos\UserData\DrivingLicense\bin\Debug\net5.0\DrivingLicense.deps.json
+C:\Users\slupi\source\repos\UserData\DrivingLicense\bin\Debug\net5.0\DrivingLicense.runtimeconfig.json
+C:\Users\slupi\source\repos\UserData\DrivingLicense\bin\Debug\net5.0\DrivingLicense.runtimeconfig.dev.json
+C:\Users\slupi\source\repos\UserData\DrivingLicense\bin\Debug\net5.0\DrivingLicense.dll
+C:\Users\slupi\source\repos\UserData\DrivingLicense\bin\Debug\net5.0\ref\DrivingLicense.dll
+C:\Users\slupi\source\repos\UserData\DrivingLicense\bin\Debug\net5.0\DrivingLicense.pdb
+C:\Users\slupi\source\repos\UserData\DrivingLicense\obj\Debug\net5.0\DrivingLicense.dll
+C:\Users\slupi\source\repos\UserData\DrivingLicense\obj\Debug\net5.0\ref\DrivingLicense.dll
+C:\Users\slupi\source\repos\UserData\DrivingLicense\obj\Debug\net5.0\DrivingLicense.pdb
+C:\Users\slupi\source\repos\UserData\DrivingLicense\obj\Debug\net5.0\DrivingLicense.genruntimeconfig.cache
