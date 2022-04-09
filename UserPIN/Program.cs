@@ -7,8 +7,8 @@ namespace UserPIN
         static void Main(string[] args)
         {
             // приложение просит пользователя ввести PIN-код.
-            // если введенный PIN-код будет 1234, то приложение приветствует пользователя
-            //*и спрашивает его имя. А затем приветствует пользователя по имени.
+            // если введенный PIN-код будет 1234, то приложение
+            //*спрашивает имя пользователя. А затем приветствует пользователя по имени.
             //в ином случае консоль выводит на экран соообщение об ошибке Invalid PIN.
 
             Console.WriteLine("Please enter your PIN:");
@@ -16,14 +16,15 @@ namespace UserPIN
 
             if (userPIN == "1234")
             {
-                Console.WriteLine("Hello! What is your name?");                                                                             
+                Console.WriteLine("Hello! What is your name?");
+                string userName = Console.ReadLine();
+                Console.WriteLine($"Welcome, dear {userName}!");
             }
             else
             {
                 Console.WriteLine("Oops! Invalid PIN");
             }
-            string userName = Console.ReadLine();
-            Console.WriteLine($"Welcome, dear {userName}!");
+            
         }
 
     }
